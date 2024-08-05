@@ -1,0 +1,18 @@
+out of 30 runs linear search(20000000): average time = 0.9003062999981921
+#note, the average time varies greatly when we take the average from 30 trials from 0.2-0.94
+
+out of 999 runs linear search(20000000): average time = 0.3560894999973243
+
+out of 30 runs Binary search(10000000): Average total time = 1.196000036240245e-05
+
+bubble sort (10000): 6.713879486664276
+
+selection sort(10000): 2.9172109466744587
+
+insertion sort(10000):
+
+merge sort(10000): 0.04550334332743659
+
+quick sort(10000): 0.02730922665602217
+
+heap sort(10000): 0.04397829994559288
